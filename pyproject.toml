@@ -11,6 +11,7 @@ streamlit = "^1.37.1"
 pre-commit = "^3.8.0"
 pandas = "^2.2.2"
 kaggle = "^1.6.17"
+geopy = "^2.4.1"
 
 
 [tool.poetry.group.dev.dependencies]
